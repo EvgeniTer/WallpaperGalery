@@ -8,8 +8,8 @@
     <string name="grid_view">Grid</string>
     <string name="wallpaper">Wallpaper</string>
     <string name="title_activity_wallpaper">WallpaperActivity</string>
-	<string name="download_url">http://ifacts.info/naruto/wallpaper.php?category_id=#category_id#</string>
-	<string name="download_categories_url">http://ifacts.info/naruto/wallpaper_category.php</string>
+	<string name="download_url">utl to get wallpapers by categories #category_id#</string>
+	<string name="download_categories_url">url to get categories</string>
 	<color name="left_menu_bg_color">#303030</color>
 	<color name="white_color">#FFFFFF</color>
 	<string name="favorite">Favorite</string>
