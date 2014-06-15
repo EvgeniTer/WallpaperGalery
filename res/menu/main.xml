@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    	xmlns:sabd="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/show_as_grid"
+        android:title="@string/grid_view"
+        android:icon="@drawable/ic_action_view_as_grid"
+        sabd:showAsAction="always"/>
+
+    
+    <item
+        android:id="@+id/show_as_list"
+        android:title="@string/list_view"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_view_as_list"
+        sabd:showAsAction="always"/>
+</menu>
